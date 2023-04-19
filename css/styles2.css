@@ -1,0 +1,35 @@
+h1  {
+    color: #243;
+    font-size: 50;
+    font-family:cursive
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: none;
+  }
+
+h2  {
+    color: #13;
+    font-size: lem;
+    font-family: cursive
+    margin-bottom: .3em;
+    text-align: left;
+    text-decoration: center;
+  }
+
+h3 {
+    color: #243;
+    font-size: 1em;
+    font-family: monospace
+    margin-bottom: .3em;
+    text-align: left;
+    text-decoration: none;
+  }
+
+h4 {
+    color: #700;
+    font-size: 1em;
+    font-family: sans-serif
+    margin-bottom: .3em;
+    text-align: right;
+    text-decoration: none;
+  }
